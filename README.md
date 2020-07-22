@@ -1,3 +1,4 @@
+Kyle has made very minor changes to `dark` theme.
 # typora-theme-pie
 > A `typora` theme with [sspai.com](http://www.sspai.com) and [Misty](https://github.com/etigerstudio/typora-misty-theme) style.
 
